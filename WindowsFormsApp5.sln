@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp5", "WindowsFormsApp5.csproj", "{E7CEFD93-26D2-4FB0-892D-5C1FDBA4507D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7CEFD93-26D2-4FB0-892D-5C1FDBA4507D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CEFD93-26D2-4FB0-892D-5C1FDBA4507D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CEFD93-26D2-4FB0-892D-5C1FDBA4507D}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{E7CEFD93-26D2-4FB0-892D-5C1FDBA4507D}.Debug|ARM64.Build.0 = Debug|ARM64
+		{E7CEFD93-26D2-4FB0-892D-5C1FDBA4507D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CEFD93-26D2-4FB0-892D-5C1FDBA4507D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7CEFD93-26D2-4FB0-892D-5C1FDBA4507D}.Release|ARM64.ActiveCfg = Release|ARM64
+		{E7CEFD93-26D2-4FB0-892D-5C1FDBA4507D}.Release|ARM64.Build.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8313D5E3-EEF9-4C9F-B700-5E3370DE3A0B}
+	EndGlobalSection
+EndGlobal
